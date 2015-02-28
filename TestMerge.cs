@@ -14,6 +14,7 @@ public class TestMerge : MonoBehaviour
   
     void Update()
     {
+        // this was edited and synced from my hackintosh with GitHub for Mac.
         Debug.Log("This is BF messing with stuff.");
     }
 }
