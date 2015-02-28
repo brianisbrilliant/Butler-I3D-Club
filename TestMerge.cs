@@ -14,6 +14,6 @@ public class TestMerge : MonoBehaviour
   
     void Update()
     {
-  
+        Debug.Log("This is BF messing with stuff.");
     }
 }
