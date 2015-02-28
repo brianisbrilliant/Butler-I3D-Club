@@ -9,12 +9,14 @@ public class TestMerge : MonoBehaviour
 {
     void Start()
     { 
+        // at the same time, while this window was open and before void Update() was updated
+        // I wrote this line of code from the browser editor of GitHub.com
+        // now it is synced, and i will sync this as well.
   		Debug.Log("This is BH messing with stuff.");
     }
   
     void Update()
     {
-        // this was edited and synced from my hackintosh with GitHub for Mac.
         Debug.Log("This is BF messing with stuff.");
     }
 }
