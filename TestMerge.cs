@@ -9,7 +9,7 @@ public class TestMerge : MonoBehaviour
 {
     void Start()
     { 
-  
+  		Debug.Log("This is BH messing with stuff.");
     }
   
     void Update()
