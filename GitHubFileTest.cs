@@ -11,5 +11,7 @@ public class GitHubScript : MonoBehaviour
 	{
 		Debug.Log("So, I just work in the folder, and use GitHub to update the changes.");
 		Debug.Log("Let's see if i can add other things to the folder, like pictures?");
+		Debug.Log("Let's see if we can add .fbx objects?");
+		Debug.Log("What about entire Unity Projects?");
 	}
 }
